@@ -1,0 +1,17 @@
+html, body {
+    height: 98%
+}
+
+h1 {
+    color: #1169dd;
+    text-align: center;
+}
+
+.frame {
+    background-color: #fffacd;
+    border: 1px solid #deb887;
+    /* height: 300px; */
+    box-shadow: 0 0 100px #deb887 inset;
+    height: 100%;
+    margin: 5px;
+}
