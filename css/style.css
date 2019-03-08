@@ -13,5 +13,25 @@ h1 {
     /* height: 300px; */
     box-shadow: 0 0 100px #deb887 inset;
     height: 100%;
-    margin: 5px;
+    margin: 1px;
+    margin-top: 3px;
 }
+
+.search {
+    text-align: center;
+}
+
+.input {
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.btn{
+    border: 1px solid #1169dd;
+    border-radius: 5px;
+    background-color: #1169dd;
+    padding: 3px;
+    text-align: center;
+    color: white;
+    width: 50px;
+  }
